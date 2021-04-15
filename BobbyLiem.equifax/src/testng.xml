@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<suite name = "Security Test URL">
+
+    <test name = "Test all URL">
+        <classes>
+            <class name = "seleniumTest.PageObjectModel.TestRunner"/>
+        </classes>
+    </test>
+</suite>

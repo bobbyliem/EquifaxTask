@@ -1,0 +1,9 @@
+
+1. Selenium task is run by testng.xml file under src folder, please right click and run
+
+2. Karate task :
+    - Please go to apiTestWithKarate package and you will see :
+        i. CommonKarateFunction.feature --> where all the common function is made
+        ii. execution.feature --> where you execute the test case
+    - Go to execution and and right click on "@execute"
+    - Please see the log to understand better the flow of test case execution
